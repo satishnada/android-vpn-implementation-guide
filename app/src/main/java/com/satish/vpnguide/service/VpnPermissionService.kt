@@ -11,7 +11,6 @@ object VpnPermissionService {
     private val log = Logger("VpnPerm")
     private val context = ContextService
 
-
     var onPermissionGranted = { granted: Boolean -> }
 
     fun hasPermission(): Boolean {

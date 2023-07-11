@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AndroidVPNGuide</string>
+    <string name="app_name">Android VPN Guide</string>
+    <string name="alert_error_header">Ooops!</string>
+    <string name="universal_action_close">Close</string>
 </resources>
