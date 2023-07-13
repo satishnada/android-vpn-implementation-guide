@@ -1,7 +1,8 @@
-package com.satish.vpnguide
+package com.satish.vpnguide.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.satish.vpnguide.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

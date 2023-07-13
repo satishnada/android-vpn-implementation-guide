@@ -5,4 +5,5 @@
     <string name="universal_status_processing">Processing… Please wait.</string>
     <string name="intro_text_not_libre">A App show notification with Activated VPN in App is working.\n\nWe recommend you activate Always on VPN in your system settings.</string>
     <string name="universal_action_continue">Continue</string>
+    <string name="intro_header">App is Active!</string>
 </resources>

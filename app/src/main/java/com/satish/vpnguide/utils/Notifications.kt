@@ -4,7 +4,7 @@ package com.satish.vpnguide.utils
 import android.content.Context
 import android.content.Intent
 import androidx.core.app.NotificationCompat
-import com.satish.vpnguide.MainActivity
+import com.satish.vpnguide.ui.MainActivity
 import com.satish.vpnguide.R
 
 private const val IMPORTANCE_NONE = 0
