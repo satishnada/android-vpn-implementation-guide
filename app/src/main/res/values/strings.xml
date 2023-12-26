@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VPNGuide-Satish</string>
+    <string name="app_header">VPN GUIDE BY SATISH</string>
+    <string name="btn_start_vpn">Start Vpn</string>
+    <string name="btn_stop_vpn">Stop Vpn</string>
+    <string name="home_status_deactivated">Deactivated</string>
+    <string name="home_action_tap_to_activate">Tap to activate</string>
+    <string name="home_status_detail_plus">*+* protecting your *privacy*</string>
+    <string name="home_status_detail_progress">Please wait...</string>
+    <string name="intro_header">VPN-GUID APP is Active!</string>
+    <string name="intro_text_not_libre">GuideApp is working.\n\nWe recommend you activate Always on VPN in your system settings.</string>
+    <string name="universal_action_continue">Continue</string>
+    <string name="main_ask_for_permissions_header">Just one more step</string>
+    <string name="main_ask_for_permissions_description">VPNGuide is using a VPN Configuration to secure your network. You will be asked to allow it in the next step.</string>
+</resources>

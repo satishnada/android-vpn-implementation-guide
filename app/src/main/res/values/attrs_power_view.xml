@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="PowerView">
+        <attr name="colorRingLibre1" format="color" />
+        <attr name="colorRingLibre2" format="color" />
+        <attr name="colorRingPlus1" format="color" />
+        <attr name="colorRingPlus2" format="color" />
+        <attr name="powerIcon" format="reference" />
+    </declare-styleable>
+</resources>
