@@ -19,9 +19,8 @@ This repository serves as a comprehensive guide and resource for developers look
 
 ## Screenshots
 
-![VPN Simplified State Diagram](https://github.com/satishnada/android-vpn-implementation-guide/blob/master/images/VPN%20Simplified%20State%20Diagram.png?raw=true)
 ![VPN Guide Android](https://github.com/satishnada/android-vpn-implementation-guide/blob/master/images/vpn%20guide%20android.jpeg?raw=true)
-
+![VPN Simplified State Diagram](https://github.com/satishnada/android-vpn-implementation-guide/blob/master/images/VPN%20Simplified%20State%20Diagram.png?raw=true)
 ## Contributing
 
 Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or submit a pull request.
