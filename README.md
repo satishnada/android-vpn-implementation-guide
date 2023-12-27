@@ -14,10 +14,13 @@ This repository serves as a comprehensive guide and resource for developers look
 
 - Compatibility: The guide is designed to work with various Android versions, ensuring compatibility across a wide range of devices.
 
+## Follow the Guide:
+- Navigate to the [Guide or Article](https://medium.com/@satish.nada98/complete-guide-to-implementing-a-vpn-service-in-android-exploring-development-details-with-code-96683c834d8d) directory to access the step-by-step instructions for implementing a VPN in your Android application.
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![VPN Simplified State Diagram](https://github.com/satishnada/android-vpn-implementation-guide/blob/master/images/VPN%20Simplified%20State%20Diagram.png?raw=true)
+![VPN Guide Android](https://github.com/satishnada/android-vpn-implementation-guide/blob/master/images/vpn%20guide%20android.jpeg?raw=true)
 
 ## Contributing
 
